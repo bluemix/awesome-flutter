@@ -89,6 +89,7 @@ Introduction to Flutter - Faisal Abid
 ### Websites / Blogs
 
 - [SZAŁKO-BLOG](https://marcinszalek.pl/) - Step by step advanced design by [Marcin Szalek]()
+- [Sergi & Replace](https://sergiandreplace.com/) - Basic to advanced articles and tutorials by [Sergi Martínez](https://github.com/sergiandreplace)
 
 ## Components
 
